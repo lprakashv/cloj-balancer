@@ -1,4 +1,4 @@
-# cloj-balancer
+# cloj-balancer [WIP]
 
 A Simple Java Sockets API (`java.net.*`, `java.io.*`) based Load Balancer app written in __"Clojure"__
 
